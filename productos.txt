@@ -1,2 +1,3 @@
 Teclado Pantalla CPU
 Monitor
+Teclado de membrana
