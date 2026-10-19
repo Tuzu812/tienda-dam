@@ -1,1 +1,2 @@
 Teclado Pantalla CPU
+Monitor
